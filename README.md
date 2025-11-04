@@ -38,7 +38,7 @@ Contains 14 key medical attributes:
 - Goal: Model patient progression patterns using `age` and `thalach`.
 - Tool: `hmmlearn` GaussianHMM with 3 hidden states.
 - Output: Hidden states and generated sample sequences.
-- 📎 https://colab.research.google.com/drive/1ntUM7SRFJ3lCFLmJ60iieEsr8q5D0xG7?usp=sharing
+- 📎https://colab.research.google.com/drive/1ntUM7SRFJ3lCFLmJ60iieEsr8q5D0xG7?usp=sharing
 
 ---
 
